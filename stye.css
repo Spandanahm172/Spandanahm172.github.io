@@ -1,0 +1,31 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(250, 3, 16);
+    background: yellow;
+    text-align: center;
+}
+
+p{
+    font-family: 'segoe UI' Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background: yellow;
+    text-align: justify;
+    font-size: larger;
+}
+div{
+    height: 300px;
+    width: 1000px;
+    background: url("wallpaper.jpg");
+    background.size:cover;
+}
+
+div.one{
+    height: 300px;
+    width: 1000px;
+    
+}
+p.two{
+    background: red;
+    color:greenyellow
+
+}
